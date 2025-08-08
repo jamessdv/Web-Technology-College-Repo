@@ -1,0 +1,20 @@
+1.Internet:
+The Internet is a system which connects countless devices and computer networks globally. It allows users to access information, communicate and transfer files & resources.
+
+2.E-Mail:
+It stands for "Electronic Mail". E-Mail is an application for sending and receiving mails or messages over the internet.
+
+3.WWW:
+It refers to the "World Wide Web". It is the system for accessing information and resources all over the internet. WWW accesses information for the user from websites and webpages through a web browser.
+
+4.FTP:
+FTP stand for "File Transfer Protocol". It defines the rules for transferring files between a sender and a receiver over a computer network.
+
+5.URL:
+It stands for "Uniform Resource Locator". An URL provides the user the address of a specific resource on the internet.
+
+6.SMTP Server:
+It stands for "Simple Mail Transfer Protocol Server". It is an application which lets you send an receive e-mails over the internet.
+
+7.DNS:
+DNS means "Domain Name Server". A DNS converts domain names, which are readable by humans into IP-addresses which are readable by computers and machines.
