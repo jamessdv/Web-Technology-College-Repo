@@ -1,0 +1,15 @@
+ 
+a:link{color:blue;}
+
+a:visited{color:rgb(166, 79, 224);}
+
+a:hover{color:rgb(231, 152, 160);}
+
+a:active{
+            text-decoration: underline;
+            color:black;}
+        
+
+
+
+

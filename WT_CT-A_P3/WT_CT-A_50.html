@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Testing for CSS Implementation
+        </title>
+
+        <link rel="stylesheet" href="syntax_50A.css">
+
+        <style>
+
+            *
+            {
+                font-size:large;
+            }
+            
+            body
+            {
+            background-image:url('paris.jpg');
+            background-repeat: no-repeat;
+            background-position: center center;
+            border: solid #d05529;
+            }
+
+            #normal{
+                font-style: normal;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-size: 24px;
+            }
+            #italic{
+                font-family: 'Courier New', Courier, monospace;
+                font-style: italic;
+                font-size: 22px;
+            }
+
+            h1{
+                font-family: 'Times New Roman', Times, serif;
+            }
+            h2{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                color:orange;
+            }
+            h3{
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+
+            .left
+            {
+                text-align:left;
+            }
+            .right
+            {
+                text-align:right;
+            }
+            .center
+            {
+                text-align:center;
+            }
+            .c1{cursor:crosshair;}
+            .c2{cursor:wait;}
+            .c3{cursor:none;}
+            .c4{cursor:grab;}
+            .c5{cursor:help;}
+            .c6{cursor:pointer;}
+
+            
+       
+            .div{
+                display: flex;
+                justify-content: center;
+            }
+
+            .img{
+                border: 5px solid #0cda32;
+            }
+        </style>
+      
+
+    </head>
+<body >
+    <h1 class="left"  style="color: red;">This text is aligned to the left.</h1>
+    <h1 class="center"style="color: brown;">This text is aligned in the center.</h1>
+    <h1 class="right" style="color: blue;">This text is aligned to the right.</h1>
+
+    <h2 class="c1"> This cursor is Crosshair.</h2>
+    <h2 class="c2"> This cursor is Wait.</h2>
+    <h2 class="c3"> This cursor is None(No cursor will be displayed.).</h2>
+    <h2 class="c4"> This cursor is Grab.</h2>
+    <h2 class="c5"> This cursor is Help.</h2>
+    <h2 class="c6"> This cursor is Pointer.</h2><br><br>
+
+   <br>
+
+   <h1 id="italic"> This is Italic Text in Courier New Font.</h1>
+   <h1 id="normal"> This is Normal Tetx in Gill Sans Font.</h1><br><br>
+
+<fieldset>
+    <legend>Links:</legend>
+   <h3>
+    <a href="https://www.w3schools.com/" class="c1" target="_blank">This link leads to W3Schools.</a><br><br>
+    <a href="https://www.geeksforgeeks.org/" class="c2" target="_blank">This link leads to GFG.</a><br><br>
+    <a href="https://leetcode.com/" class="c4" target="_blank">This link leads to LeetCode.</a><br><br>
+    <a href="https://www.google.com/" class="c5" target="_blank"> This link leads to Google.</a><br><br>
+   </h3>
+</fieldset>
+   
+</body>
+</html>
