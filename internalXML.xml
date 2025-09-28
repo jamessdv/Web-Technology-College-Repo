@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="prac5.css"?>
+
+<!DOCTYPE employees [
+  <!ELEMENT employees (employee+)>
+  <!ELEMENT employee (id, name, department, designation, email, salary)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT department (#PCDATA)>
+  <!ELEMENT designation (#PCDATA)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT salary (#PCDATA)>
+]>
+
+<employees>
+    <employee>
+        <id>51</id>
+        <name>John Richards</name>
+        <department>IT</department>
+        <designation>Software Engineer</designation>
+        <email>johnrichards@gmail.com</email>
+        <salary>60000</salary>
+    </employee>
+
+    <employee>
+        <id>34</id>
+        <name>Mary Jane</name>
+        <department>HR</department>
+        <designation>Human Resource Manager</designation>
+        <email>maryjane98@gmail.com</email>
+        <salary>55000</salary>
+    </employee>
+
+    <employee>
+        <id>12</id>
+        <name>James Smith</name>
+        <department>Finance</department>
+        <designation>Financial Analyst</designation>
+        <email>james.smith@gmail.com</email>
+        <salary>70000</salary>
+    </employee>
+
+    <employee>
+        <id>45</id>
+        <name>Emily Davis</name>
+        <department>Marketing</department>
+        <designation>Marketing Specialist</designation>
+        <email>emily.davis@gmail.com</email>
+        <salary>50000</salary>
+    </employee>
+    
+</employees>
