@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <CD>
+    <TITLE>Lucid Dreams</TITLE>
+    <ARTIST>BoyWithUke</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia Legends</COMPANY>
+    <PRICE>8500</PRICE>
+    <YEAR>2013</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Forest Hills Drives</TITLE>
+    <ARTIST>J. Cole</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <PRICE>8900</PRICE>
+    <YEAR>1988</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Nevermind</TITLE>
+    <ARTIST>Nirvana</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>RCA</COMPANY>
+    <PRICE>9800</PRICE>
+    <YEAR>1991</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Hatful of Sorrow</TITLE>
+    <ARTIST>The Smiths</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Merge Records</COMPANY>
+    <PRICE>7600</PRICE>
+    <YEAR>1998</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Back to Black</TITLE>
+    <ARTIST>Amy Winehouse</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Island Records</COMPANY>
+    <PRICE>7500</PRICE>
+    <YEAR>2003</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Tell Me It's Real</TITLE>
+    <ARTIST>Seafret</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>XL Recordings</COMPANY>
+    <PRICE>9900</PRICE>
+    <YEAR>2016</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Random Access Memories</TITLE>
+    <ARTIST>Daft Punk</ARTIST>
+    <COUNTRY>France</COUNTRY>
+    <COMPANY>Virgin Records</COMPANY>
+    <PRICE>9000</PRICE>
+    <YEAR>2013</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>In the Lonely Hour</TITLE>
+    <ARTIST>Sam Smith</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Capitol Records</COMPANY>
+    <PRICE>6850</PRICE>
+    <YEAR>2014</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>To Pimp a Butterfly</TITLE>
+    <ARTIST>Kendrick Lamar</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Top Dawg Entertainment</COMPANY>
+    <PRICE>9500</PRICE>
+    <YEAR>2015</YEAR>
+  </CD>
+
+  <CD>
+    <TITLE>Abyss</TITLE>
+    <ARTIST>Pastel Ghost</ARTIST>
+    <COUNTRY>Norway</COUNTRY>
+    <COMPANY>XL Recordings</COMPANY>
+    <PRICE>7100</PRICE>
+    <YEAR>2019</YEAR>
+  </CD>
+</CATALOG>
