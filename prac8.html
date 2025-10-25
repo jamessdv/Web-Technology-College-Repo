@@ -7,7 +7,8 @@
         <style>
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background-color: #f4f6fa;
+  background: linear-gradient(45deg,rgb(6, 1, 10), rgb(104, 235, 132), rgb(242, 129, 242), rgb(91, 91, 234),rgb(249, 92, 162),#2f8575, rgb(6, 1, 10));
+      
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -15,6 +16,17 @@ body {
   height: 100vh;
   margin: 0;
   padding-top: 60px;
+}
+
+.container {
+  background-color: #transparent;       
+  border-radius: 15px;            
+  padding: 30px 40px;              
+  box-shadow: 0 4px 12px 10px rgba(0, 0, 0, 0.2); 
+  display: flex;
+  flex-direction: column;
+  align-items: center;                 
+  border: 2px solid #ffffff;   
 }
 
 h1 {
@@ -25,9 +37,9 @@ h1 {
 }
 
 label {
-  font-weight: 600;
+  font-weight: 700;
   color: #444;
-  font-size: 16px;
+  font-size: 19px;
 }
 
 input[type="number"] {
@@ -88,18 +100,19 @@ button:hover {
         </style>
     
     </head>
-    <body>
-        <h1>Application of Loops, Conditional Statements & Functions in JavaScript.</h1>
-        
+    <body>    
+     <div class="container">
+      <h1>Arithmetic applications using loops, conditional statements and functions.</h1>
+      
         <label>Enter a Positive Integer: </label>
         <input type="number" id="numInput"><br><br>
         
         <button onclick="showEvenOdd()">Check If Number is Even:</button><br><br>
         <button onclick="showSum()">Sum of first 'n' Integers:</button><br><br>
         <button onclick="showOdds()">Print All Odd Integers less than 'n':</button><br><br>
-
+      
   <p id="output"></p>
-        
+    </div>
             <script>
                 function checkEvenOdd(num)
                 {
